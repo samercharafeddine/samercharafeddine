@@ -1,4 +1,4 @@
-![I am GitHub Web/Game developer 👨‍💻](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Web/Game developer 👨‍💻]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/samercharafeddine/samercharafeddine/blob/main/Banner%20GitHub-01.png))
 
 ### Hi there 👋, I'm Samer 
 
