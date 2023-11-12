@@ -19,8 +19,5 @@ A game developer with a passion for creating engaging and immersive gaming exper
 - 💬 Ask me about Games and Development 
 - 📫 How to reach me: samer.charaf3@gmail.com
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samercharafeddine)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/samercharafeddine)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/samercharafeddine)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/samer-charaf-eddine-90739a127//)  
 
