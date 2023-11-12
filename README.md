@@ -5,7 +5,7 @@
 
 A game developer with a passion for creating engaging and immersive gaming experiences. Currently residing in Lebanon, I graduated from Istanbul Bilgi University with experience in both Unity and Unreal game engines, as well as C# and C++. Now, I'm a web developer. My goal is to gamify the website's experience for the users and transport people to new worlds, letting them experience the web in a different way. When I'm not absorbed in the lines of code, you can find me exploring the digital and physical realms, always on the lookout for new adventures, be it in video games or real life.
 
-<h3>Languages:</h3> 👨‍💻 
+<h3>Languages:</h3>
 <hr>
  - HTML, CSS, JS 
  - C#, C++
