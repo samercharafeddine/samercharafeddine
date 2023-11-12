@@ -7,7 +7,7 @@ A game developer with a passion for creating engaging and immersive gaming exper
 
 <h3>Languages:</h3>
 <hr>
- - HTML, CSS, JS 
+ - HTML, CSS, JS <br>
  - C#, C++
 
 <h3>Softwares:</h3>
