@@ -19,7 +19,7 @@ A game developer with a passion for creating engaging and immersive gaming exper
  - Adobe After Effects
 
 <hr>
-- 💬 Ask me about Games and Development 
+- 💬 Ask me about Games and Development <br>
 - 📫 How to reach me: samer.charaf3@gmail.com
 
 
