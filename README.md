@@ -18,7 +18,6 @@ A game developer with a passion for creating engaging and immersive gaming exper
  - Adobe Premier Pro
  - Adobe After Effects
 
-<h3>Facts:</h3>
 <hr>
 - 💬 Ask me about Games and Development 
 - 📫 How to reach me: samer.charaf3@gmail.com
