@@ -11,10 +11,11 @@ A game developer with a passion for creating engaging and immersive gaming exper
 #### Softwares:
  - Unity Engine
  - Unreal Enigne
- - Adobe PHotoshop
+ - Adobe Photoshop
  - Adobe Premier Pro
  - Adobe After Effects
 
+#### Facts:
 - 🌱 I’m currently learning Full Stack Web Development 
 - 💬 Ask me about Games and Development 
 - 📫 How to reach me: samer.charaf3@gmail.com
